@@ -17,10 +17,15 @@ body {
 .standard-card {
     background-color: white;
     width: 400px;
-    border: 1px solid rgba(0, 0, 0, 0.1);
-    border-radius: 4px;
+    border: 2px solid rgba(107, 115, 228, 0.25);
+    border-radius: 20px;
     margin-bottom: 32px;
     box-sizing: border-box;
 }
+
+.footerLink {
+    color:green;
+}
+
 html, body { height: 100%; }
 body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }

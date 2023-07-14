@@ -11,7 +11,7 @@ export class FriendService {
 
   constructor() { }
 
-  // addFriend('Peter', 'Hallo', '/assets/img/hamster/1.jpg')
+  // addFriend('Peter', 'Hallo', '/assets/img/petimages/1.jpg')
   addFriend(name, text, image){
     this.names.push(name);
     this.texts.push(text);

@@ -8,7 +8,7 @@ import { FriendService } from '../friend.service';
 })
 export class ProfileRowComponent implements OnInit {
   @Input() name = 'Frederick';
-  @Input() img = '/assets/img/hamster/1.jpg';
+  @Input() img = '/assets/img/petimages/1.jpg';
   @Input() description = '3 Jahre alt';
   @Input() canFollow = true;
 

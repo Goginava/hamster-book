@@ -15,10 +15,10 @@ export class AppComponent {
   ];
 
   postImages = [
-    'assets/img/hamster/1.jpg',
-    'assets/img/hamster/2.jpg',
-    'assets/img/hamster/3.jpg',
-    'assets/img/hamster/4.jpg'
+    'assets/img/petimages/1.jpg',
+    'assets/img/petimages/2.jpg',
+    'assets/img/petimages/3.jpg',
+    'assets/img/petimages/4.jpg'
   ];
 
   buttonClicked() {
